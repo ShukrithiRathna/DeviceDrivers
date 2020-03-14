@@ -1,0 +1,9 @@
+To: shukrithi@gmail.com
+From: shuksgal13@gmail.com
+Subject: Device Drivers Lab Assignment 12
+Dear Sir,
+    After many many unsuccessful attempts of sending an email through terminal using various methods, I was finally successful using thesendmail command. I will send you a followup email with my script for the same.                      
+ the sendmail command. I will send you a followup email with my script for the same. 
+Thanking you,
+Shukrithi Rathna
+

@@ -1,0 +1,126 @@
+START-------------------------------------------------
+
+--2020-02-04 16:12:18--  https://itsfoss.com/
+Resolving itsfoss.com (itsfoss.com)... 104.18.46.203, 104.18.47.203, 2606:4700:3033::6812:2ecb, ...
+Connecting to itsfoss.com (itsfoss.com)|104.18.46.203|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html.1’
+
+     0K .......... .......... .......... .......... .......... 8.22M
+    50K .......... .......... .......... .......... .......... 1.08M
+   100K .                                                      2079G=0.05s
+
+2020-02-04 16:12:22 (1.93 MB/s) - ‘index.html.1’ saved [103516]
+
+0.03user 0.01system 0:03.46elapsed 1%CPU (0avgtext+0avgdata 7012maxresident)k
+0inputs+208outputs (0major+351minor)pagefaults 0swaps
+
+STARTTIME: Tue Feb  4 16:12:17 IST 2020
+END TIME:  Tue Feb  4 16:12:22 IST 2020
+
+START-------------------------------------------------
+
+--2020-02-23 18:37:22--  https://itsfoss.com/
+Resolving itsfoss.com (itsfoss.com)... 2606:4700:3033::6812:2ecb, 2606:4700:3036::6812:2fcb, 104.18.46.203, ...
+Connecting to itsfoss.com (itsfoss.com)|2606:4700:3033::6812:2ecb|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html.2’
+
+     0K .......... .......... .......... .......... .......... 9.89M
+    50K .......... .......... .......... .......... ..........  679K
+   100K                                                        1436G=0.08s
+
+2020-02-23 18:37:24 (1.25 MB/s) - ‘index.html.2’ saved [103171]
+
+0.01user 0.02system 0:01.80elapsed 2%CPU (0avgtext+0avgdata 6900maxresident)k
+1088inputs+208outputs (3major+352minor)pagefaults 0swaps
+
+STARTTIME: Sun Feb 23 18:37:22 IST 2020
+END TIME:  Sun Feb 23 18:37:24 IST 2020
+
+START-------------------------------------------------
+
+--2020-02-23 18:38:41--  https://itsfoss.com/
+Resolving itsfoss.com (itsfoss.com)... 2606:4700:3036::6812:2fcb, 2606:4700:3033::6812:2ecb, 104.18.47.203, ...
+Connecting to itsfoss.com (itsfoss.com)|2606:4700:3036::6812:2fcb|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html’
+
+     0K .......... .......... .......... .......... .......... 11.1M
+    50K .......... .......... .......... .......... ..........  846K
+   100K                                                        1436G=0.06s
+
+2020-02-23 18:38:42 (1.55 MB/s) - ‘index.html’ saved [103171]
+
+0.02user 0.01system 0:01.29elapsed 3%CPU (0avgtext+0avgdata 7020maxresident)k
+0inputs+208outputs (0major+356minor)pagefaults 0swaps
+
+STARTTIME: Sun Feb 23 18:38:41 IST 2020
+END TIME:  Sun Feb 23 18:38:42 IST 2020
+
+START-------------------------------------------------
+
+--2020-02-23 19:16:07--  https://itsfoss.com/
+Resolving itsfoss.com (itsfoss.com)... 2606:4700:3033::6812:2ecb, 2606:4700:3036::6812:2fcb, 104.18.46.203, ...
+Connecting to itsfoss.com (itsfoss.com)|2606:4700:3033::6812:2ecb|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html.1’
+
+     0K .......... .......... .......... .......... .......... 10.0M
+    50K .......... .......... .......... .......... ..........  904K
+   100K                                                        1436G=0.06s
+
+2020-02-23 19:16:09 (1.63 MB/s) - ‘index.html.1’ saved [103171]
+
+0.02user 0.01system 0:02.25elapsed 1%CPU (0avgtext+0avgdata 6956maxresident)k
+0inputs+208outputs (0major+354minor)pagefaults 0swaps
+
+STARTTIME: Sun Feb 23 19:16:07 IST 2020
+END TIME:  Sun Feb 23 19:16:09 IST 2020
+
+START-------------------------------------------------
+
+--2020-02-23 19:16:17--  https://itsfoss.com/
+Resolving itsfoss.com (itsfoss.com)... 2606:4700:3036::6812:2fcb, 2606:4700:3033::6812:2ecb, 104.18.47.203, ...
+Connecting to itsfoss.com (itsfoss.com)|2606:4700:3036::6812:2fcb|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html.2’
+
+     0K .......... .......... .......... .......... .......... 5.15M
+    50K .......... .......... .......... .......... ..........  933K
+   100K                                                        1436G=0.06s
+
+2020-02-23 19:16:19 (1.56 MB/s) - ‘index.html.2’ saved [103171]
+
+0.02user 0.01system 0:01.34elapsed 3%CPU (0avgtext+0avgdata 7016maxresident)k
+0inputs+216outputs (0major+356minor)pagefaults 0swaps
+
+STARTTIME: Sun Feb 23 19:16:16 IST 2020
+END TIME:  Sun Feb 23 19:16:19 IST 2020
+
+START-------------------------------------------------
+
+--2020-02-23 19:16:31--  https://itsfoss.com/
+Resolving itsfoss.com (itsfoss.com)... 2606:4700:3036::6812:2fcb, 2606:4700:3033::6812:2ecb, 104.18.47.203, ...
+Connecting to itsfoss.com (itsfoss.com)|2606:4700:3036::6812:2fcb|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘index.html.3’
+
+     0K .......... .......... .......... .......... .......... 4.15M
+    50K .......... .......... .......... .......... ..........  899K
+   100K                                                        1436G=0.07s
+
+2020-02-23 19:16:32 (1.46 MB/s) - ‘index.html.3’ saved [103171]
+
+0.03user 0.01system 0:01.48elapsed 3%CPU (0avgtext+0avgdata 7060maxresident)k
+0inputs+208outputs (0major+354minor)pagefaults 0swaps
+
+STARTTIME: Sun Feb 23 19:16:31 IST 2020
+END TIME:  Sun Feb 23 19:16:32 IST 2020
+
