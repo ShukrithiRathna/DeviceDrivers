@@ -1,0 +1,25 @@
+/dev/loop0
+/dev/loop* are loop devices making plain files accessible as block devices. They are typically used for mounting disk images.
+Major number: 7
+Minor number: 0
+
+rfkill
+rfkill lists, enabling and disabling wireless devices. It is a small userspace tool to query the state of the rfkill switches, buttons and subsystem interfaces.
+Major number: 10
+Minor number: 62
+
+UHID
+User-space I/O driver support for HID subsystem. UHID is accessed through a character misc-device. The minor-number is allocated dynamically so you need to rely on udev (or similar) to create the device node.
+Major number: 10
+Minor number: 239
+
+uinput
+is a kernel module that makes possible create and handle input devices from userspace. By using /dev/uinput (or /dev/input/uinput), a process can create virtual devices and emit events like key pressing, mouse movements and joystick buttons.
+Major number: 10
+Minor number: 223
+
+mcelog
+mcelog logs and accounts machine checks (in particular memory, IO, and CPU hardware errors) on modern x86 Linux systems. 
+Major number: 10
+Minor number: 227
+
