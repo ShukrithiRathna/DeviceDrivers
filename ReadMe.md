@@ -66,6 +66,3 @@ Write a simple Network Device Driver -
 
 * Write a C program to print IP and MAC address - Mock_lab_exam.c Bash.c
 
-#### Project 
-* Development of a tool related Linux/Mac System Administration or Kernel functions - System Log File monitoring
-* source code - 
