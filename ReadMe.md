@@ -62,6 +62,9 @@ Write a simple Network Device Driver -
 
 * Write a shell program to send an email. 
 
+##### Exercise 15
+
+* C program which create a char device,  read and write in that - 
 ##### Mock Exam (9-3-20)
 
 * Write a C program to print IP and MAC address - Mock_lab_exam.c Bash.c
